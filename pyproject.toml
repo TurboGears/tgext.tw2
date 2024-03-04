@@ -1,0 +1,8 @@
+[project]
+name = "tgext.tw2"
+version = "0.1"
+requires-python = ">= 3.7"
+dependencies = [
+  "tw2.core",
+  "TurboGears2"
+]
